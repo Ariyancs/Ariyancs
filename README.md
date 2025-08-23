@@ -12,7 +12,7 @@ Passionate about building real-world projects using **React, Python, SQL, Power 
 - [EVSCOPE – EV Analytics Dashboard](https://analytics-dashboard-assessment-gray.vercel.app)  
   Built using Python, Pandas, Power BI for real-time regional EV trends
 
-- [Srijoni Healing Home Website](https://www.srijonihealinghome.in)  
+- [Srijoni Healing Home Website](https://www.srijonihealinghome.com)  
   Frontend project using HTML, Tailwind CSS with responsive UX
 
 - Python Budget Planner (CLI tool)  
