@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ariyan Bhakat
+# Hi there I'm Ariyan Bhakat
 
 B.Tech ECE student at RCCIIT | Aspiring Full Stack Developer & Data Analyst  
 Passionate about building real-world projects using **React, Python, SQL, Power BI**
